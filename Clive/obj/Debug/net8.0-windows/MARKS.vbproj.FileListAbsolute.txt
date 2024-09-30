@@ -1,0 +1,74 @@
+C:\Users\HP\Desktop\carol\MARKS\bin\Debug\net8.0-windows\MARKS.exe
+C:\Users\HP\Desktop\carol\MARKS\bin\Debug\net8.0-windows\MARKS.deps.json
+C:\Users\HP\Desktop\carol\MARKS\bin\Debug\net8.0-windows\MARKS.runtimeconfig.json
+C:\Users\HP\Desktop\carol\MARKS\bin\Debug\net8.0-windows\MARKS.dll
+C:\Users\HP\Desktop\carol\MARKS\bin\Debug\net8.0-windows\MARKS.pdb
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.AssemblyInfo.vb
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.dll
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\refint\MARKS.dll
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.pdb
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.genruntimeconfig.cache
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\ref\MARKS.dll
+C:\Users\HP\Desktop\carol\MARKS\obj\Debug\net8.0-windows\MARKS.gradingScale.resources
+C:\Users\HP\Desktop\REALLIFE\MARKS\bin\Debug\net8.0-windows\MARKS.exe
+C:\Users\HP\Desktop\REALLIFE\MARKS\bin\Debug\net8.0-windows\MARKS.deps.json
+C:\Users\HP\Desktop\REALLIFE\MARKS\bin\Debug\net8.0-windows\MARKS.runtimeconfig.json
+C:\Users\HP\Desktop\REALLIFE\MARKS\bin\Debug\net8.0-windows\MARKS.dll
+C:\Users\HP\Desktop\REALLIFE\MARKS\bin\Debug\net8.0-windows\MARKS.pdb
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.gradingScale.resources
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.AssemblyInfo.vb
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.dll
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\refint\MARKS.dll
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.pdb
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\MARKS.genruntimeconfig.cache
+C:\Users\HP\Desktop\REALLIFE\MARKS\obj\Debug\net8.0-windows\ref\MARKS.dll
+C:\Users\HP\Desktop\course work\MARKS\bin\Debug\net8.0-windows\MARKS.exe
+C:\Users\HP\Desktop\course work\MARKS\bin\Debug\net8.0-windows\MARKS.deps.json
+C:\Users\HP\Desktop\course work\MARKS\bin\Debug\net8.0-windows\MARKS.runtimeconfig.json
+C:\Users\HP\Desktop\course work\MARKS\bin\Debug\net8.0-windows\MARKS.dll
+C:\Users\HP\Desktop\course work\MARKS\bin\Debug\net8.0-windows\MARKS.pdb
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.gradingScale.resources
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.AssemblyInfo.vb
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.dll
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\refint\MARKS.dll
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.pdb
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\MARKS.genruntimeconfig.cache
+C:\Users\HP\Desktop\course work\MARKS\obj\Debug\net8.0-windows\ref\MARKS.dll
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\bin\Debug\net8.0-windows\MARKS.exe
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\bin\Debug\net8.0-windows\MARKS.deps.json
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\bin\Debug\net8.0-windows\MARKS.runtimeconfig.json
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\bin\Debug\net8.0-windows\MARKS.dll
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\bin\Debug\net8.0-windows\MARKS.pdb
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.gradingScale.resources
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.vbproj.GenerateResource.cache
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.AssemblyInfoInputs.cache
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.AssemblyInfo.vb
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.vbproj.CoreCompileInputs.cache
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.dll
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\refint\MARKS.dll
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.pdb
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\MARKS.genruntimeconfig.cache
+C:\Users\SEMINAR-ROOM\Desktop\MARKS\obj\Debug\net8.0-windows\ref\MARKS.dll
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.gradingScale.resources
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.Form1.resources
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.vbproj.GenerateResource.cache
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.AssemblyInfoInputs.cache
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.AssemblyInfo.vb
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.vbproj.CoreCompileInputs.cache
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.dll
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\refint\MARKS.dll
+C:\Users\Collin Joe\Desktop\Clive\obj\Debug\net8.0-windows\MARKS.pdb

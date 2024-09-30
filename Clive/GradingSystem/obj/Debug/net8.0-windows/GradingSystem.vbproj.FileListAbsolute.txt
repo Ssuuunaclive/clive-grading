@@ -1,0 +1,16 @@
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.exe
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.deps.json
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.runtimeconfig.json
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.Form1.resources
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.GenerateResource.cache
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfo.vb
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\refint\GradingSystem.dll
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.genruntimeconfig.cache
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\ref\GradingSystem.dll
